@@ -356,7 +356,7 @@ p {
 
 	font-size:24px;
 
-	background:#e3c303;
+	background:linear-gradient( to top, rgb(227,195,3) 25%, rgb(244,219,67) 68%);
 	color:#099a48;
 	border:none;
 	outline:none;
